@@ -1,4 +1,4 @@
-package com.escola.mscursos.dto;
+package com.school.mscourse.dto;
 
 import lombok.*;
 

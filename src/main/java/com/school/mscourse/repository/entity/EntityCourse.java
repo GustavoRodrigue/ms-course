@@ -1,4 +1,4 @@
-package com.escola.mscursos.repository.entity;
+package com.school.mscourse.repository.entity;
 
 
 import jakarta.persistence.*;

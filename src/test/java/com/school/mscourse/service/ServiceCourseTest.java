@@ -1,9 +1,9 @@
-package com.escola.mscursos.service;
+package com.school.mscourse.service;
 
-import com.escola.mscursos.dto.DtoCourse;
-import com.escola.mscursos.dto.DtoErrorResponse;
-import com.escola.mscursos.repository.RepositoryCourse;
-import com.escola.mscursos.repository.entity.EntityCourse;
+import com.school.mscourse.dto.DtoCourse;
+import com.school.mscourse.dto.DtoErrorResponse;
+import com.school.mscourse.repository.RepositoryCourse;
+import com.school.mscourse.repository.entity.EntityCourse;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

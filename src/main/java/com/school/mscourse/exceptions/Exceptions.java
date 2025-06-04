@@ -1,7 +1,7 @@
-package com.escola.mscursos.exceptions;
+package com.school.mscourse.exceptions;
 
-import com.escola.mscursos.dto.DtoError;
-import com.escola.mscursos.dto.DtoErrorResponse;
+import com.school.mscourse.dto.DtoError;
+import com.school.mscourse.dto.DtoErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;
